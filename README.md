@@ -3,9 +3,9 @@
 ## Details
 
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/weissroger/)
-- ⚡ Fun fact: I've been doing C# software development for the last 20 years
-- 🔭 I’m currently working on .NET Core Services
-- 🌱 I’m currently learning Angular
+- ⚡ Fun fact: I've been doing C# software development for the last 25 years
+- 🔭 I’m currently working on .NET Services and Blazor App
+- 🌱 My Job Title is Senior Solutions. Architect
 
 
 
