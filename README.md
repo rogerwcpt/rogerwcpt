@@ -4,8 +4,8 @@
 
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/weissroger/)
 - ⚡ Fun fact: I've been doing C# software development for the last 25 years
-- 🔭 I’m currently working on .NET Services and Blazor App
-- 🌱 My Job Title is Senior Solutions. Architect
+- 🔭 My Core Skill: .NET Services and Blazor Apps
+- 🌱 My Job Title: Senior Solutions Architect
 
 
 
